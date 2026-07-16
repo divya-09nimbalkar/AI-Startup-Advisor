@@ -148,6 +148,4 @@ AI_Meeting_Assistant/
 
 ##  Author
 
-**Divya** — AI/ML Developer | B.Tech Electronics & Telecom
-
-```
+**Divya** — AI/ML Developer | B.Tech Electronics & Telecom.
