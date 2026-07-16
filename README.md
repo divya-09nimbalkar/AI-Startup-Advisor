@@ -1,6 +1,6 @@
 
 ```markdown
-# 🎙️ AI Meeting Assistant
+#  AI Meeting Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5--flash-blueviolet.svg)](https://aistudio.google.com/)
@@ -8,11 +8,11 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)]()
 
-> 🚀 Transform raw meeting voice recordings or conversational text scripts into concise business briefings, categorized task tracking logs, formatted Word document artifacts, and ready-to-send corporate follow-up emails instantly. Powered by **OpenAI Whisper ASR** models and **Google Gemini 2.5-Flash** structural processing containers.
+>  Transform raw meeting voice recordings or conversational text scripts into concise business briefings, categorized task tracking logs, formatted Word document artifacts, and ready-to-send corporate follow-up emails instantly. Powered by **OpenAI Whisper ASR** models and **Google Gemini 2.5-Flash** structural processing containers.
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
 - [Key Features](#key-features)
