@@ -24,16 +24,16 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 The **AI Meeting Assistant** automates the tedious post-meeting documentation loop. Instead of manually re-listening to hours of audio or tracking down loose assignments, the application processes text files or audio tracks to extract executive metrics, assign owners, set deadlines, compile Word document reports, and draft follow-up communications in seconds.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 
-```
+
 
 Audio Media File / Raw Text Transcript Input
 │
@@ -68,7 +68,7 @@ Audio Media File / Raw Text Transcript Input
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **Multi-Input Transcription Layer:** Flexible setup supporting direct `.mp3`/`.wav` processing via Whisper, as well as pass-through structures for live Zoom/Teams log data text.
 * **Native JSON Schema Generation:** Implements strict JSON constraint arrays using Gemini API `response_mime_type` mechanics to prevent system formatting issues.
@@ -78,7 +78,7 @@ Audio Media File / Raw Text Transcript Input
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **AI Processing Engine:** Google Gemini 2.5-Flash (`google-generativeai`)
 * **Audio Speech Recognition:** OpenAI Whisper ASR Core Models
@@ -88,7 +88,7 @@ Audio Media File / Raw Text Transcript Input
 
 ---
 
-## 📊 Jupyter Cell Execution Pipeline
+##  Jupyter Cell Execution Pipeline
 
 The `AI_Meeting_Assistant.ipynb` workspace features a clean, step-by-step layout:
 1. **Cell 1 (Markdown):** Technical badge indexes, tool features summaries, and flow maps.
@@ -102,7 +102,7 @@ The `AI_Meeting_Assistant.ipynb` workspace features a clean, step-by-step layout
 
 ---
 
-## ⚙️ Installation & Environment Setup
+##  Installation & Environment Setup
 
 ### 1. Build Local Target Project Workspace
 ```bash
@@ -131,7 +131,7 @@ os.environ["GEMINI_API_KEY"] = "AIzaSyYourSecretKeyStringHere"
 
 ---
 
-## 📁 Project Directory Architecture
+##  Project Directory Architecture
 
 ```text
 AI_Meeting_Assistant/
@@ -146,7 +146,7 @@ AI_Meeting_Assistant/
 
 
 
-## 👤 Author
+##  Author
 
 **Divya** — AI/ML Developer | B.Tech Electronics & Telecom
 
